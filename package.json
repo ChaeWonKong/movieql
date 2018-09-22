@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/ChaeWonKong/movieql",
   "author": "ChaewonKong",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.16.2"
+  }
 }
