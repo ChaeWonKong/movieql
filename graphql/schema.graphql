@@ -1,5 +1,11 @@
+type Leon {
+    name: String!
+    age: Int!
+    gender: String!
+}
+
 type Query {
-    name: String!    
+    person: Leon!
 }
 
 
