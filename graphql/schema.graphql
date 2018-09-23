@@ -7,7 +7,7 @@ type Person {
 
 type Query {
     people: [Person]!
-    person(id: int!): Person
+    person(id: Int!): Person
 }
 
 
